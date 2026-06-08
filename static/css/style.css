@@ -105,3 +105,12 @@ h1{
     padding: 10px;    
     color: #000000;
 }
+.footer {
+    background-color: #0a12f3;
+    color: rgb(242, 203, 203);
+    padding: 10px 0;
+    margin: 20px auto;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+}
